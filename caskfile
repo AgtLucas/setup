@@ -11,6 +11,10 @@ iterm2
 monotype-skyfonts
 sublime-text3
 virtualbox
+robomongo
+sequel-pro
+sketch
+sketch-toolbox 
 
 # System tools and tweaks
 appcleaner
@@ -22,19 +26,10 @@ dropbox
 google-drive
 caffeine
 spectacle
-typora
+mou
+evernote
 
 # Media and communication
-android-file-transfer
-lastfm
-skype
 slack
-teamviewer
-transmission
-vlc
-
-# QuickLook plugins
-qlcolorcode
-qlmarkdown
-webpquicklook
+skype
 
