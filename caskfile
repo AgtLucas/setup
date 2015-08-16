@@ -6,7 +6,6 @@ opera-next
 # Development and design tools
 atom
 github
-imagealpha
 imageoptim
 iterm2
 monotype-skyfonts
@@ -19,9 +18,9 @@ daisydisk
 flashlight
 
 # Productivity tools
-flycut
+dropbox
 google-drive
-raindrop
+caffeine
 spectacle
 typora
 
